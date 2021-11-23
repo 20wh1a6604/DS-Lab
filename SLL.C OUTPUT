@@ -1,0 +1,71 @@
+utput:
+1-create
+2-insert at begin
+3-insert at end
+4-insert at pos
+5-delete at begin
+6-delete at end
+7-delete at pos
+8-display
+9-reverse display
+10-search
+11-sort
+12-exit
+
+Enter your choice : 1
+Enter no. of nodes:2
+3
+2
+
+1-create
+2-insert at begin
+3-insert at end
+4-insert at pos
+5-delete at begin
+6-delete at end
+7-delete at pos
+8-display
+9-reverse display
+10-search
+11-sort
+12-exit
+
+Enter your choice : 8
+ 3 -> 2 ->
+1-create
+2-insert at begin
+3-insert at end
+4-insert at pos
+5-delete at begin
+6-delete at end
+7-delete at pos
+8-display
+9-reverse display
+10-search
+11-sort
+12-exit
+
+Enter your choice : 2
+5
+
+1-create
+2-insert at begin
+3-insert at end
+4-insert at pos
+5-delete at begin
+6-delete at end
+7-delete at pos
+8-display
+9-reverse display
+10-search
+11-sort
+12-exit
+
+Enter your choice : 8
+ 5 -> 3 -> 2 ->
+1-create
+2-insert at begin
+3-insert at end
+4-insert at pos
+5-delete at begin
+6-delete at end
