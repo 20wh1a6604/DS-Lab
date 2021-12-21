@@ -1,0 +1,69 @@
+Output:
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 1
+Enter element : 1
+
+
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 1
+Enter element : 4
+
+
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 1
+Enter element : 3
+
+
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 4
+3
+4
+1
+
+
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 2
+Deleted element id 3
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 4
+4
+1
+
+
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 3
+top most ele is 4
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+Enter your choice : 5
