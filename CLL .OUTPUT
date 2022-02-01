@@ -1,0 +1,144 @@
+/*OUTPUT
+
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 1
+Enter no.of nodes: 5
+1
+2
+3
+4
+5
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 2
+6
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 3
+7
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 4
+Enter position: 4
+Enter element: 8
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 8
+6 -> 1 -> 2 -> 8 -> 3 -> 4 -> 5 -> 7
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 5
+6
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 6
+7
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 7
+Enter position: 4
+Deleted element is 3
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 8
+1 -> 2 -> 8 -> 4 -> 5
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 9
+5
+4
+8
+2
+1
+1-create
+2-insert_begin
+3-insert_end
+4-insert_pos
+5-delete_begin
+6-delete_end
+7-delete_pos
+8- display
+9-reverse_display
+10-exit
+Enter your choice: 10
