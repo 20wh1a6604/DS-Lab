@@ -1,0 +1,12 @@
+OUTPUT
+ Enter number of vertices:4
+
+ Enter the adjacency matrix:
+0 0 1 1
+1 0 0 0 
+0 0 0 1
+0 1 0 0 
+
+ 1->3
+ 3->4
+ 4->2
