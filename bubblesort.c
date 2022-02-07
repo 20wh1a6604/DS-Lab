@@ -1,4 +1,5 @@
-int main()
+#include<stdio.h>
+int main
 {
     int arr[100], n, c1, c2, swap;
     printf("enter the no of elements\n");
